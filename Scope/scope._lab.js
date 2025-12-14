@@ -22,4 +22,4 @@ console.log(globalConst); // Output: "I'm a global constant"
 
 //Block Scope
 //console.log(blockVar);
-/console.log(blockLet);
+//console.log(blockLet);
